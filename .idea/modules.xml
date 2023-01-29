@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ggg/.idea/ggg.iml" filepath="$PROJECT_DIR$/../ggg/.idea/ggg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jerusalem.iml" filepath="$PROJECT_DIR$/.idea/jerusalem.iml" />
+    </modules>
+  </component>
+</project>
